@@ -1,1 +1,1 @@
-# CyberSecuirtyChatbot
+# CyberSecurityChatbot
